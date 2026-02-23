@@ -57,8 +57,8 @@ journey in offensive security and penetration testing.
     <tr>
       <td><strong>My Profiles</strong></td>
       <td>
-        <a href="https://www.linkedin.com/in/rami-el-ajouz-811533266/">LinkedIn</a>
-        &nbsp;
+        <!-- <a href="">LinkedIn</a>
+        &nbsp; -->
         <a href="https://app.hackthebox.com/users/1948289">Hack The Box</a>
         &nbsp;
         <a href="https://github.com/Dibit1234">GitHub</a>
