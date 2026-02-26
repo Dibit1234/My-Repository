@@ -67,8 +67,7 @@ journey in offensive security and penetration testing.
   </tbody>
 </table>
 
-</div>                                                                                    |
-
+</div>                                                                                    
 ***
 
 ## **Disclaimer**
