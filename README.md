@@ -22,10 +22,10 @@ A collection of practical insights and experiences from my
 journey in offensive security and penetration testing.
 ```
 
-***
-
 ## **About me**
 
+
+ <br>
 <div align="center">
 
 <table>
@@ -68,7 +68,7 @@ journey in offensive security and penetration testing.
 </table>
 
 </div>                                                                                    
-***
+<br>
 
 ## **Disclaimer**
 
