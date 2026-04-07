@@ -52,6 +52,8 @@ journey in offensive security and penetration testing.
         <a href="https://www.credly.com/badges/40e711d8-10f4-46e1-836e-3858ac69ee6f/public_url">CCNA</a>
         &nbsp;
         <a href="https://www.credly.com/badges/1c7847fd-7a9d-4e52-b2cf-17ea2f1f555f/public_url">Network+</a>
+        &nbsp;
+        <a href="https://www.credly.com/badges/172c2280-a6b6-4213-9cf0-3af9ca2989eb/public_url">HTB-CWES</a>
       </td>
     </tr>
     <tr>
